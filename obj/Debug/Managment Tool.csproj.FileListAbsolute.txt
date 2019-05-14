@@ -1,0 +1,128 @@
+C:\Users\RWSwiss\Desktop\Library\C#\Managment Tool\Managment Tool\bin\Debug\Managment Tool.exe.config
+C:\Users\RWSwiss\Desktop\Library\C#\Managment Tool\Managment Tool\bin\Debug\Managment Tool.exe
+C:\Users\RWSwiss\Desktop\Library\C#\Managment Tool\Managment Tool\bin\Debug\Managment Tool.pdb
+C:\Users\RWSwiss\Desktop\Library\C#\Managment Tool\Managment Tool\obj\Debug\Managment Tool.csprojAssemblyReference.cache
+C:\Users\RWSwiss\Desktop\Library\C#\Managment Tool\Managment Tool\obj\Debug\Managment_Tool.frmManagmentTool.resources
+C:\Users\RWSwiss\Desktop\Library\C#\Managment Tool\Managment Tool\obj\Debug\Managment_Tool.Properties.Resources.resources
+C:\Users\RWSwiss\Desktop\Library\C#\Managment Tool\Managment Tool\obj\Debug\Managment Tool.csproj.GenerateResource.cache
+C:\Users\RWSwiss\Desktop\Library\C#\Managment Tool\Managment Tool\obj\Debug\Managment Tool.csproj.CoreCompileInputs.cache
+C:\Users\RWSwiss\Desktop\Library\C#\Managment Tool\Managment Tool\obj\Debug\Managment Tool.exe
+C:\Users\RWSwiss\Desktop\Library\C#\Managment Tool\Managment Tool\obj\Debug\Managment Tool.pdb
+C:\Users\RWSwiss\Desktop\Library\C#\Managment-Tool\Managment Tool\bin\Debug\Managment Tool.exe.config
+C:\Users\RWSwiss\Desktop\Library\C#\Managment-Tool\Managment Tool\bin\Debug\Managment Tool.exe
+C:\Users\RWSwiss\Desktop\Library\C#\Managment-Tool\Managment Tool\bin\Debug\Managment Tool.pdb
+C:\Users\RWSwiss\Desktop\Library\C#\Managment-Tool\Managment Tool\obj\Debug\Managment Tool.csprojAssemblyReference.cache
+C:\Users\RWSwiss\Desktop\Library\C#\Managment-Tool\Managment Tool\obj\Debug\Managment_Tool.frmManagmentTool.resources
+C:\Users\RWSwiss\Desktop\Library\C#\Managment-Tool\Managment Tool\obj\Debug\Managment_Tool.Properties.Resources.resources
+C:\Users\RWSwiss\Desktop\Library\C#\Managment-Tool\Managment Tool\obj\Debug\Managment Tool.csproj.GenerateResource.cache
+C:\Users\RWSwiss\Desktop\Library\C#\Managment-Tool\Managment Tool\obj\Debug\Managment Tool.csproj.CoreCompileInputs.cache
+C:\Users\RWSwiss\Desktop\Library\C#\Managment-Tool\Managment Tool\obj\Debug\Managment Tool.exe
+C:\Users\RWSwiss\Desktop\Library\C#\Managment-Tool\Managment Tool\obj\Debug\Managment Tool.pdb
+A:\Pulpit\Library\Managment Tool\bin\Debug\Managment Tool.exe.config
+A:\Pulpit\Library\Managment Tool\bin\Debug\Managment Tool.exe
+A:\Pulpit\Library\Managment Tool\bin\Debug\Managment Tool.pdb
+A:\Pulpit\Library\Managment Tool\obj\Debug\Managment_Tool.ConstructionForm.resources
+A:\Pulpit\Library\Managment Tool\obj\Debug\Managment_Tool.frmManagmentTool.resources
+A:\Pulpit\Library\Managment Tool\obj\Debug\Managment_Tool.Properties.Resources.resources
+A:\Pulpit\Library\Managment Tool\obj\Debug\Managment Tool.csproj.GenerateResource.cache
+A:\Pulpit\Library\Managment Tool\obj\Debug\Managment Tool.csproj.CoreCompileInputs.cache
+A:\Pulpit\Library\Managment Tool\obj\Debug\Managment Tool.exe
+A:\Pulpit\Library\Managment Tool\obj\Debug\Managment Tool.pdb
+A:\Pulpit\Library\Managment Tool\obj\Debug\Managment Tool.csprojAssemblyReference.cache
+C:\Users\RWSwiss\Desktop\Library\C#\Managment Tool\bin\Debug\Managment Tool.exe.config
+C:\Users\RWSwiss\Desktop\Library\C#\Managment Tool\bin\Debug\Managment Tool.exe
+C:\Users\RWSwiss\Desktop\Library\C#\Managment Tool\bin\Debug\Managment Tool.pdb
+C:\Users\RWSwiss\Desktop\Library\C#\Managment Tool\obj\Debug\Managment_Tool.ConstructionForm.resources
+C:\Users\RWSwiss\Desktop\Library\C#\Managment Tool\obj\Debug\Managment_Tool.frmManagmentTool.resources
+C:\Users\RWSwiss\Desktop\Library\C#\Managment Tool\obj\Debug\Managment_Tool.Properties.Resources.resources
+C:\Users\RWSwiss\Desktop\Library\C#\Managment Tool\obj\Debug\Managment Tool.csproj.GenerateResource.cache
+C:\Users\RWSwiss\Desktop\Library\C#\Managment Tool\obj\Debug\Managment Tool.csproj.CoreCompileInputs.cache
+C:\Users\RWSwiss\Desktop\Library\C#\Managment Tool\obj\Debug\Managment Tool.exe
+C:\Users\RWSwiss\Desktop\Library\C#\Managment Tool\obj\Debug\Managment Tool.pdb
+C:\Users\RWSwiss\Desktop\Library\C#\Managment Tool\obj\Debug\Managment_Tool.mailForm.resources
+C:\Users\RWSwiss\Desktop\Library\C#\Managment Tool\bin\Debug\Managment Tool.exe.manifest
+C:\Users\RWSwiss\Desktop\Library\C#\Managment Tool\bin\Debug\Managment Tool.application
+C:\Users\RWSwiss\Desktop\Library\C#\Managment Tool\obj\Debug\Managment Tool.exe.manifest
+C:\Users\RWSwiss\Desktop\Library\C#\Managment Tool\obj\Debug\Managment Tool.application
+C:\Users\RWSwiss\Desktop\Library\C#\Managment Tool\obj\Debug\Managment Tool.csprojAssemblyReference.cache
+A:\Pulpit\Managment Tool\bin\Debug\Managment Tool.exe.config
+A:\Pulpit\Managment Tool\bin\Debug\Managment Tool.exe.manifest
+A:\Pulpit\Managment Tool\bin\Debug\Managment Tool.application
+A:\Pulpit\Managment Tool\bin\Debug\Managment Tool.exe
+A:\Pulpit\Managment Tool\bin\Debug\Managment Tool.pdb
+A:\Pulpit\Managment Tool\obj\Debug\Managment Tool.csprojAssemblyReference.cache
+A:\Pulpit\Managment Tool\obj\Debug\Managment_Tool.ConstructionForm.resources
+A:\Pulpit\Managment Tool\obj\Debug\Managment_Tool.frmManagmentTool.resources
+A:\Pulpit\Managment Tool\obj\Debug\Managment_Tool.mailForm.resources
+A:\Pulpit\Managment Tool\obj\Debug\Managment_Tool.Properties.Resources.resources
+A:\Pulpit\Managment Tool\obj\Debug\Managment Tool.csproj.GenerateResource.cache
+A:\Pulpit\Managment Tool\obj\Debug\Managment Tool.csproj.CoreCompileInputs.cache
+A:\Pulpit\Managment Tool\obj\Debug\Managment Tool.exe.manifest
+A:\Pulpit\Managment Tool\obj\Debug\Managment Tool.application
+A:\Pulpit\Managment Tool\obj\Debug\Managment Tool.exe
+A:\Pulpit\Managment Tool\obj\Debug\Managment Tool.pdb
+D:\Moje dokumenty\Library\C#\Managment Tool\obj\Debug\Managment Tool.csprojAssemblyReference.cache
+D:\Moje dokumenty\Library\C#\Managment Tool\obj\Debug\Managment_Tool.frmManagmentTool.resources
+D:\Moje dokumenty\Library\C#\Managment Tool\obj\Debug\Managment_Tool.Properties.Resources.resources
+D:\Moje dokumenty\Library\C#\Managment Tool\obj\Debug\Managment Tool.csproj.GenerateResource.cache
+D:\Moje dokumenty\Library\C#\Managment Tool\obj\Debug\Managment Tool.csproj.CoreCompileInputs.cache
+D:\Moje dokumenty\Library\C#\Managment Tool\bin\Debug\B3U3 Managment Tool.exe.config
+D:\Moje dokumenty\Library\C#\Managment Tool\bin\Debug\B3U3 Managment Tool.exe.manifest
+D:\Moje dokumenty\Library\C#\Managment Tool\bin\Debug\B3U3 Managment Tool.application
+D:\Moje dokumenty\Library\C#\Managment Tool\bin\Debug\B3U3 Managment Tool.exe
+D:\Moje dokumenty\Library\C#\Managment Tool\bin\Debug\B3U3 Managment Tool.pdb
+D:\Moje dokumenty\Library\C#\Managment Tool\obj\Debug\B3U3 Managment Tool.exe.manifest
+D:\Moje dokumenty\Library\C#\Managment Tool\obj\Debug\B3U3 Managment Tool.application
+D:\Moje dokumenty\Library\C#\Managment Tool\obj\Debug\B3U3 Managment Tool.exe
+D:\Moje dokumenty\Library\C#\Managment Tool\obj\Debug\B3U3 Managment Tool.pdb
+D:\Moje dokumenty\Library\C#\VW380 B3U3 Managment Tool\bin\Debug\B3U3 Managment Tool.exe.config
+D:\Moje dokumenty\Library\C#\VW380 B3U3 Managment Tool\bin\Debug\B3U3 Managment Tool.exe.manifest
+D:\Moje dokumenty\Library\C#\VW380 B3U3 Managment Tool\bin\Debug\B3U3 Managment Tool.application
+D:\Moje dokumenty\Library\C#\VW380 B3U3 Managment Tool\bin\Debug\B3U3 Managment Tool.exe
+D:\Moje dokumenty\Library\C#\VW380 B3U3 Managment Tool\bin\Debug\B3U3 Managment Tool.pdb
+D:\Moje dokumenty\Library\C#\VW380 B3U3 Managment Tool\obj\Debug\Managment Tool.csprojAssemblyReference.cache
+D:\Moje dokumenty\Library\C#\VW380 B3U3 Managment Tool\obj\Debug\Managment_Tool.frmManagmentTool.resources
+D:\Moje dokumenty\Library\C#\VW380 B3U3 Managment Tool\obj\Debug\Managment_Tool.Properties.Resources.resources
+D:\Moje dokumenty\Library\C#\VW380 B3U3 Managment Tool\obj\Debug\Managment Tool.csproj.GenerateResource.cache
+D:\Moje dokumenty\Library\C#\VW380 B3U3 Managment Tool\obj\Debug\Managment Tool.csproj.CoreCompileInputs.cache
+D:\Moje dokumenty\Library\C#\VW380 B3U3 Managment Tool\obj\Debug\B3U3 Managment Tool.exe.manifest
+D:\Moje dokumenty\Library\C#\VW380 B3U3 Managment Tool\obj\Debug\B3U3 Managment Tool.application
+D:\Moje dokumenty\Library\C#\VW380 B3U3 Managment Tool\obj\Debug\B3U3 Managment Tool.exe
+D:\Moje dokumenty\Library\C#\VW380 B3U3 Managment Tool\obj\Debug\B3U3 Managment Tool.pdb
+D:\Moje dokumenty\Library\C#\VW380 B3U3 Managment Tool\obj\Debug\Managment_Tool.TaskStatus.resources
+D:\Moje dokumenty\Library\gotowe programy\VW380 B3U3 Managment Tool\bin\Debug\B3U3 Managment Tool.exe.config
+D:\Moje dokumenty\Library\gotowe programy\VW380 B3U3 Managment Tool\bin\Debug\B3U3 Managment Tool.exe.manifest
+D:\Moje dokumenty\Library\gotowe programy\VW380 B3U3 Managment Tool\bin\Debug\B3U3 Managment Tool.application
+D:\Moje dokumenty\Library\gotowe programy\VW380 B3U3 Managment Tool\bin\Debug\B3U3 Managment Tool.exe
+D:\Moje dokumenty\Library\gotowe programy\VW380 B3U3 Managment Tool\bin\Debug\B3U3 Managment Tool.pdb
+D:\Moje dokumenty\Library\gotowe programy\VW380 B3U3 Managment Tool\obj\Debug\Managment_Tool.frmManagmentTool.resources
+D:\Moje dokumenty\Library\gotowe programy\VW380 B3U3 Managment Tool\obj\Debug\Managment_Tool.Properties.Resources.resources
+D:\Moje dokumenty\Library\gotowe programy\VW380 B3U3 Managment Tool\obj\Debug\Managment_Tool.TaskStatus.resources
+D:\Moje dokumenty\Library\gotowe programy\VW380 B3U3 Managment Tool\obj\Debug\Managment Tool.csproj.GenerateResource.cache
+D:\Moje dokumenty\Library\gotowe programy\VW380 B3U3 Managment Tool\obj\Debug\Managment Tool.csproj.CoreCompileInputs.cache
+D:\Moje dokumenty\Library\gotowe programy\VW380 B3U3 Managment Tool\obj\Debug\B3U3 Managment Tool.exe.manifest
+D:\Moje dokumenty\Library\gotowe programy\VW380 B3U3 Managment Tool\obj\Debug\B3U3 Managment Tool.application
+D:\Moje dokumenty\Library\gotowe programy\VW380 B3U3 Managment Tool\obj\Debug\B3U3 Managment Tool.exe
+D:\Moje dokumenty\Library\gotowe programy\VW380 B3U3 Managment Tool\obj\Debug\B3U3 Managment Tool.pdb
+D:\Moje dokumenty\Library\gotowe programy\VW380 B3U3 Managment Tool\obj\Debug\Managment_Tool.Forms.CntrlUser.resources
+D:\Moje dokumenty\Library\gotowe programy\VW380 B3U3 Managment Tool\obj\Debug\Managment_Tool.Forms.CntrlTask.resources
+D:\Moje dokumenty\Library\gotowe programy\VW380 B3U3 Managment Tool\obj\Debug\Managment Tool.csprojAssemblyReference.cache
+D:\Moje dokumenty\Library\gotowe programy\VW380 B3U3 Managment Tool\bin\Debug\AngleSharp.dll
+D:\Moje dokumenty\Library\gotowe programy\VW380 B3U3 Managment Tool\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Moje dokumenty\Library\gotowe programy\VW380 B3U3 Managment Tool\bin\Debug\NPOI.dll
+D:\Moje dokumenty\Library\gotowe programy\VW380 B3U3 Managment Tool\bin\Debug\NPOI.OOXML.dll
+D:\Moje dokumenty\Library\gotowe programy\VW380 B3U3 Managment Tool\bin\Debug\NPOI.OpenXml4Net.dll
+D:\Moje dokumenty\Library\gotowe programy\VW380 B3U3 Managment Tool\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\Moje dokumenty\Library\gotowe programy\VW380 B3U3 Managment Tool\bin\Debug\PdfSharp-WPF.dll
+D:\Moje dokumenty\Library\gotowe programy\VW380 B3U3 Managment Tool\bin\Debug\PdfSharp.Xps.dll
+D:\Moje dokumenty\Library\gotowe programy\VW380 B3U3 Managment Tool\bin\Debug\System.InversionOfControl.Abstractions.dll
+D:\Moje dokumenty\Library\gotowe programy\VW380 B3U3 Managment Tool\bin\Debug\System.Windows.Documents.Reporting.dll
+D:\Moje dokumenty\Library\gotowe programy\VW380 B3U3 Managment Tool\bin\Debug\AngleSharp.xml
+D:\Moje dokumenty\Library\gotowe programy\VW380 B3U3 Managment Tool\bin\Debug\NPOI.xml
+D:\Moje dokumenty\Library\gotowe programy\VW380 B3U3 Managment Tool\bin\Debug\PdfSharp-WPF.xml
+D:\Moje dokumenty\Library\gotowe programy\VW380 B3U3 Managment Tool\bin\Debug\PdfSharp.Xps.xml
+D:\Moje dokumenty\Library\gotowe programy\VW380 B3U3 Managment Tool\bin\Debug\System.InversionOfControl.Abstractions.xml
+D:\Moje dokumenty\Library\gotowe programy\VW380 B3U3 Managment Tool\bin\Debug\System.Windows.Documents.Reporting.pdb
+D:\Moje dokumenty\Library\gotowe programy\VW380 B3U3 Managment Tool\bin\Debug\System.Windows.Documents.Reporting.xml
+D:\Moje dokumenty\Library\gotowe programy\VW380 B3U3 Managment Tool\obj\Debug\Managment Tool.csproj.CopyComplete
+D:\Moje dokumenty\Library\gotowe programy\VW380 B3U3 Managment Tool\obj\Debug\Managment_Tool.Forms.CntrlTaskView.resources
